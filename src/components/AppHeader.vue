@@ -11,7 +11,7 @@ export default {
 <template>
   <header>
     <h1>
-      {{ message }}
+      {{message}}
     </h1>
   </header>
 </template>
